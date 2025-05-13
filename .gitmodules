@@ -358,6 +358,10 @@
 	path = extensions/codesandbox-theme
 	url = https://github.com/MartinRybergLaude/zed-theme-codesandbox.git
 
+[submodule "extensions/codestackr"]
+	path = extensions/codestackr
+	url = https://github.com/Pjort/codestackr-zed.git
+
 [submodule "extensions/colored-zed-icons-theme"]
 	path = extensions/colored-zed-icons-theme
 	url = https://github.com/TheRedXD/zed-icons-colored-theme.git
@@ -937,6 +941,10 @@
 [submodule "extensions/jira-slash-command"]
 	path = extensions/jira-slash-command
 	url = https://github.com/trbroyles1/jira-slash-command.git
+
+[submodule "extensions/json5"]
+	path = extensions/json5
+	url = https://github.com/ChunzhengLab/json5-zed-extension.git
 
 [submodule "extensions/jsonnet"]
 	path = extensions/jsonnet
